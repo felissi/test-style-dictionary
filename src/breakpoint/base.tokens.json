@@ -1,0 +1,28 @@
+{
+    "breakpoint": {
+        "sm": {
+            "value": "576px"
+        },
+        "md": {
+            "value": "768px"
+        },
+        "lg": {
+            "value": "1024px"
+        },
+        "xl": {
+            "value": "1200px"
+        },
+        "2xl": {
+            "value": "1400px"
+        },
+        "tablet": {
+            "value": "{breakpoint.md}"
+        },
+        "laptop": {
+            "value": "{breakpoint.lg}"
+        },
+        "desktop": {
+            "value": "{breakpoint.xl}"
+        }
+    }
+}

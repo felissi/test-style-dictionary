@@ -1,0 +1,6 @@
+{
+	"type": "module",
+	"dependencies": {
+		"style-dictionary": "^4.0.1"
+	}
+}

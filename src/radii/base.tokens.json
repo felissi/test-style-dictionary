@@ -1,0 +1,25 @@
+{
+  "radius": {
+    "checkbox": {
+      "value": "{radius.2xs}"
+    },
+    "default": {
+      "value": "{radius.sm}"
+    },
+    "2xs": {
+      "value": "6px"
+    },
+    "xs": {
+      "value": "8px"
+    },
+    "sm": {
+      "value": "12px"
+    },
+    "md": {
+      "value": "14px"
+    },
+    "lg": {
+      "value": "16px"
+    }
+  }
+}

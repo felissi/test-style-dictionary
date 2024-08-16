@@ -1,0 +1,210 @@
+{
+  "color": {
+    "primary": {
+      "tw": {
+        "50": {
+          "value": "{color.primary.50}"
+        },
+        "100": {
+          "value": "{color.primary.100}"
+        },
+        "200": {
+          "value": "{color.primary.200}"
+        },
+        "300": {
+          "value": "{color.primary.300}"
+        },
+        "400": {
+          "value": "{color.primary.400}"
+        },
+        "500": {
+          "value": "{color.primary.500}"
+        },
+        "600": {
+          "value": "{color.primary.600}"
+        },
+        "700": {
+          "value": "{color.primary.700}"
+        },
+        "800": {
+          "value": "{color.primary.800}"
+        },
+        "900": {
+          "value": "{color.primary.900}"
+        },
+        "default": {
+          "value": "{color.primary.default}"
+        }
+      }
+    },
+    "secondary": {
+      "tw": {
+        "50": {
+          "value": "{color.secondary.50}"
+        },
+        "100": {
+          "value": "{color.secondary.100}"
+        },
+        "200": {
+          "value": "{color.secondary.200}"
+        },
+        "300": {
+          "value": "{color.secondary.300}"
+        },
+        "400": {
+          "value": "{color.secondary.400}"
+        },
+        "500": {
+          "value": "{color.secondary.500}"
+        },
+        "600": {
+          "value": "{color.secondary.600}"
+        },
+        "700": {
+          "value": "{color.secondary.700}"
+        },
+        "800": {
+          "value": "{color.secondary.800}"
+        },
+        "900": {
+          "value": "{color.secondary.900}"
+        },
+        "default": {
+          "value": "{color.secondary.default}"
+        }
+      }
+    },
+    "accent": {
+      "tw": {
+        "default": {
+          "value": "{color.accent.default}"
+        }
+      }
+    },
+    "success": {
+      "tw": {
+        "50": {
+          "value": "{color.success.50}"
+        },
+        "100": {
+          "value": "{color.success.100}"
+        },
+        "200": {
+          "value": "{color.success.200}"
+        },
+        "300": {
+          "value": "{color.success.300}"
+        },
+        "400": {
+          "value": "{color.success.400}"
+        },
+        "500": {
+          "value": "{color.success.500}"
+        },
+        "600": {
+          "value": "{color.success.600}"
+        },
+        "700": {
+          "value": "{color.success.700}"
+        },
+        "800": {
+          "value": "{color.success.800}"
+        },
+        "900": {
+          "value": "{color.success.900}"
+        },
+        "default": {
+          "value": "{color.success.default}"
+        }
+      }
+    },
+    "warning": {
+      "tw": {
+        "50": {
+          "value": "{color.warning.50}"
+        },
+        "100": {
+          "value": "{color.warning.100}"
+        },
+        "200": {
+          "value": "{color.warning.200}"
+        },
+        "300": {
+          "value": "{color.warning.300}"
+        },
+        "400": {
+          "value": "{color.warning.400}"
+        },
+        "500": {
+          "value": "{color.warning.500}"
+        },
+        "600": {
+          "value": "{color.warning.600}"
+        },
+        "700": {
+          "value": "{color.warning.700}"
+        },
+        "800": {
+          "value": "{color.warning.800}"
+        },
+        "900": {
+          "value": "{color.warning.900}"
+        },
+        "default": {
+          "value": "{color.warning.default}"
+        }
+      }
+    },
+    "danger": {
+      "tw": {
+        "50": {
+          "value": "{color.danger.50}"
+        },
+        "100": {
+          "value": "{color.danger.100}"
+        },
+        "200": {
+          "value": "{color.danger.200}"
+        },
+        "300": {
+          "value": "{color.danger.300}"
+        },
+        "400": {
+          "value": "{color.danger.400}"
+        },
+        "500": {
+          "value": "{color.danger.500}"
+        },
+        "600": {
+          "value": "{color.danger.600}"
+        },
+        "700": {
+          "value": "{color.danger.700}"
+        },
+        "800": {
+          "value": "{color.danger.800}"
+        },
+        "900": {
+          "value": "{color.danger.900}"
+        },
+        "default": {
+          "value": "{color.danger.default}"
+        }
+      }
+    },
+    "info": {
+      "tw": {
+        "default": {
+          "value": "{color.info.default}"
+        }
+      }
+    },
+    "help": {
+      "tw": {
+        "default": {
+          "value": "{color.help.default}"
+        }
+      }
+    }
+  }
+}

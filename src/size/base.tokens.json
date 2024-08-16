@@ -1,0 +1,30 @@
+{
+    "size": {
+        "margin": {
+            "sm": {
+                "value": "12px"
+            },
+            "md": {
+                "value": "20px"
+            },
+            "lg": {
+                "value": "32px"
+            }
+        },
+        "header": {
+            "height": {
+                "value": "56px"
+            }
+        }
+    },
+    "padding": {
+        "footer": {
+            "value": "1.25rem"
+        }
+    },
+    "identityBar": {
+        "height": {
+            "value": "24px"
+        }
+    }
+}

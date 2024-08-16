@@ -1,0 +1,20 @@
+{
+    "border": {
+        "width": {
+            "sm": {
+                "value": "1px"
+            },
+            "md": {
+                "value": "2px"
+            },
+            "lg": {
+                "value": "3px"
+            }
+        },
+        "color": {
+            "default": {
+                "value": "{color.default.200}"
+            }
+        }
+    }
+}

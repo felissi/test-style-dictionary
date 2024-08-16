@@ -1,0 +1,19 @@
+{
+    "opacity": {
+        "disabled": {
+            "value": 0.5
+        },
+        "focus": {
+            "value": 1
+        },
+        "hover": {
+            "value": 0.8
+        },
+        "divider": {
+            "value": 0.15
+        },
+        "overlay": {
+            "value": 0
+        }
+    }
+}

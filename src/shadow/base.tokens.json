@@ -1,0 +1,14 @@
+{
+    "shadow": {
+        "color": {
+            "hsl": {
+                "value": "220deg 15% 60%"
+            }
+        }
+    },
+    "elevation": {
+        "level": {
+            "value": 0
+        }
+    }
+}
